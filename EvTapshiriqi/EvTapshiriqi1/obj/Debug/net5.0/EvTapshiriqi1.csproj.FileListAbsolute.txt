@@ -1,0 +1,16 @@
+C:\Users\Asus\source\repos\EvTapshiriqi1\EvTapshiriqi1\bin\Debug\net5.0\EvTapshiriqi1.exe
+C:\Users\Asus\source\repos\EvTapshiriqi1\EvTapshiriqi1\bin\Debug\net5.0\EvTapshiriqi1.deps.json
+C:\Users\Asus\source\repos\EvTapshiriqi1\EvTapshiriqi1\bin\Debug\net5.0\EvTapshiriqi1.runtimeconfig.json
+C:\Users\Asus\source\repos\EvTapshiriqi1\EvTapshiriqi1\bin\Debug\net5.0\EvTapshiriqi1.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\EvTapshiriqi1\EvTapshiriqi1\bin\Debug\net5.0\EvTapshiriqi1.dll
+C:\Users\Asus\source\repos\EvTapshiriqi1\EvTapshiriqi1\bin\Debug\net5.0\ref\EvTapshiriqi1.dll
+C:\Users\Asus\source\repos\EvTapshiriqi1\EvTapshiriqi1\bin\Debug\net5.0\EvTapshiriqi1.pdb
+C:\Users\Asus\source\repos\EvTapshiriqi1\EvTapshiriqi1\obj\Debug\net5.0\EvTapshiriqi1.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\EvTapshiriqi1\EvTapshiriqi1\obj\Debug\net5.0\EvTapshiriqi1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\EvTapshiriqi1\EvTapshiriqi1\obj\Debug\net5.0\EvTapshiriqi1.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\EvTapshiriqi1\EvTapshiriqi1\obj\Debug\net5.0\EvTapshiriqi1.AssemblyInfo.cs
+C:\Users\Asus\source\repos\EvTapshiriqi1\EvTapshiriqi1\obj\Debug\net5.0\EvTapshiriqi1.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\EvTapshiriqi1\EvTapshiriqi1\obj\Debug\net5.0\EvTapshiriqi1.dll
+C:\Users\Asus\source\repos\EvTapshiriqi1\EvTapshiriqi1\obj\Debug\net5.0\ref\EvTapshiriqi1.dll
+C:\Users\Asus\source\repos\EvTapshiriqi1\EvTapshiriqi1\obj\Debug\net5.0\EvTapshiriqi1.pdb
+C:\Users\Asus\source\repos\EvTapshiriqi1\EvTapshiriqi1\obj\Debug\net5.0\EvTapshiriqi1.genruntimeconfig.cache
